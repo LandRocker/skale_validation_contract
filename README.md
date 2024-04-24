@@ -70,15 +70,6 @@ Follow these steps to set up and run the project locally:
 
    ```
 
-## Features
-
-This repository contains the set of smart contracts that facilitate the LandRocker governance token on Polygon. These contracts contain the logic to:
-
-1. LRT token
-2. manage distribute LRT
-3. Manage Vesting the LRT token
-4. Manage pre sales of LRT token
-
 ## Documentation
 
 In-depth documentation on LandRocker and the latest deployed contracts addresses are available at [LandRocker Docs](https://whitepaper.landrocker.io/).
